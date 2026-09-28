@@ -1,0 +1,6 @@
+streamlit
+feedparser
+nltk
+pandas
+numpy
+yfinance
